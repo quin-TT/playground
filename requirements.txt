@@ -1,0 +1,17 @@
+sentence_transformers
+langchain_community
+langchain_openai
+pinecone-client
+langchain_core
+python-dotenv
+accelerate
+ipykernel
+langserve
+streamlit
+datasets
+chromadb
+uvicorn
+torch
+pypdf
+wget
+bs4

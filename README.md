@@ -1,15 +1,13 @@
-<h1 align="center">AI, ML, Deep Learning & LLMs — Content & Cookbooks</h1>
+<h1 align="center">AI, ML, Deep Learning & LLMs — Content & Cookbooks </h1>
 
 <p align="center">
-   <em>A curated collection of hands-on notebooks, tutorials, and resources covering AI, ML, RAG, Agents, Fine-tuning, and more.</em>
+   <em>A curated collection of hands-on notebooks, tutorials, and resources covering AI, ML, RAG, Agents, Fine-tuning, and more.  -Original repo by Satyam Mittal</em>
+   <br> This is for my independent learning purposes only 
 </p>
 
 <p align="center">
   <a href="https://github.com/05satyam/AI-ML" target="_blank">
     <img src="https://img.shields.io/badge/Explore_AI--ML_Repository-Black?style=for-the-badge&logo=github" alt="AI-ML Repository"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satyam-sm" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
